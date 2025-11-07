@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Toyota Camry 2020",
+    "price": 2500000
+  },
+  {
+    "title": "Honda Civic 2019",
+    "price": 1800000
+  },
+  {
+    "title": "BMW X5 2021",
+    "price": 4500000
+  },
+  {
+    "title": "Mercedes C-Class 2020",
+    "price": 3800000
+  },
+  {
+    "title": "Audi A4 2019",
+    "price": 2200000
+  },
+  {
+    "title": "Ford Focus 2018",
+    "price": 1200000
+  },
+  {
+    "title": "Nissan Qashqai 2020",
+    "price": 1900000
+  },
+  {
+    "title": "Hyundai Solaris 2021",
+    "price": 1500000
+  },
+  {
+    "title": "Kia Rio 2020",
+    "price": 1400000
+  },
+  {
+    "title": "Volkswagen Polo 2019",
+    "price": 1300000
+  }
+]
